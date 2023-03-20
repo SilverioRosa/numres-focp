@@ -1,6 +1,6 @@
 # numres-focp
 Codes for the numerical resolution of Fractional Optimal Control Problem
-proposed in the following paper:
+presented in the following paper:
 
 [*] Rosa, S.; Torres, D.F.M. Numerical Fractional Optimal Control of 
 Respiratory Syncytial Virus Infection in Octave/MATLAB. Mathematics 
